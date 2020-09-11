@@ -1,0 +1,209 @@
+
+.parallax1{
+  /* The image used */
+  background-image: url("11.jpg");
+
+  /* Set a specific height */
+  min-height: 800px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#subDiv{
+
+    text-align: center;
+    color: white;
+    margin-top: 250px;
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+
+}
+#subDiv h3{
+    font-size: 3rem;
+    font-style: oblique;
+}
+#subDiv p{
+    margin: 24px;
+}
+
+.parallax2{
+  background-image: url("22.jpg");
+  min-height: 800px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  position: relative;
+  background-size: cover;
+  background-position: 50%;
+  min-height: 430px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.subDiv1{
+    color: white;
+    margin-top: 250px;
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    text-align: right;
+    margin-right: 100px;
+}
+.subDiv1 h3{
+    font-size: 3rem;
+    font-style: oblique;
+}
+
+.parallax3{
+  background-image: url("33.jpg");
+  min-height: 800px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.subDiv2{
+    color: white;
+    margin-top: 250px;
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    text-align: left;
+    margin-left: 100px;
+}
+.subDiv2 h3{
+    font-size: 3rem;
+    font-style: oblique;
+}
+.subDiv2 p{
+   margin-top: 20px;
+   margin-bottom: 30px;
+}
+
+
+.parallax4{
+  background-image: url("44.jpg");
+  min-height: 800px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.subDiv3{
+    color: white;
+    margin-top: 250px;
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    text-align: right;
+    
+}
+.subDiv3 h3{
+    font-size: 3rem;
+    font-style: oblique;
+}
+#sub_Div3{
+  margin-right: 100px;
+}
+#sub_Div3 p{
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.parallax5{
+  background-image: url("55.jpg");
+  min-height: 800px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.subDiv4{
+    color: white;
+    margin-top: 250px;
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    text-align: left;
+    
+}
+.subDiv4 h3{
+    font-size: 3rem;
+    font-style: oblique;
+}
+#sub_Div4{
+  margin-left: 100px;
+}
+#sub_Div4 p{
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.parallax6{
+  background-image: url("66.jpg");
+  min-height: 800px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax7{
+  background-image: url("77.jpg");
+  min-height: 800px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax8{
+  background-image: url("88.jpg");
+  min-height: 800px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax9{
+  background-image: url("99.jpg");
+  min-height: 800px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container{
+
+}
+#footer_Div{
+    margin: 100px;
+    text-align: center;
+    font-size: larger;
+}
+#fb{
+  font-size: -webkit-xxx-large;
+    margin: 3px;
+    margin-left: 32px;
+    padding-bottom: 20px;
+}
